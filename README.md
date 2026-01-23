@@ -9,4 +9,5 @@ Things you should be doing daily, weekly, monthly, yearly.
 ## Table of Contents
 1. Daily
 2. Weekly
-3. Monthly  
+3. Monthly
+4. Yearly
