@@ -15,7 +15,9 @@ Things you should be doing daily, weekly, monthly, yearly.
 
 ## Daily
 Apple devices (iPhone and iPad)  
-Check for app updates everyday
+You should check for app updates everyday (Apple devices can be finicky on when they auto-update, sometimes taking days to weeks to auto-update)
+* To check for updates on a Apple device:
+* 
 
 ## Weekly
 
