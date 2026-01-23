@@ -8,9 +8,15 @@ Things you should be doing daily, weekly, monthly, yearly.
 
 ## Table of Contents
 1. [Daily](#daily)
-2. [Weekly]
-3. [Monthly]
-4. [Yearly]
+2. [Weekly](#weekly)
+3. [Monthly](#monthly)
+4. [Yearly](#yearly)
 
 
 ## Daily
+
+## Weekly
+
+## Monthly
+
+## Yearly
