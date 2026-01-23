@@ -14,6 +14,8 @@ Things you should be doing daily, weekly, monthly, yearly.
 
 
 ## Daily
+Apple devices (iPhone and iPad)  
+Check for app updates everyday
 
 ## Weekly
 
