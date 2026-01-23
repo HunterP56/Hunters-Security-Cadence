@@ -7,7 +7,10 @@ Things you should be doing daily, weekly, monthly, yearly.
 * What devices should I be updating.  
 
 ## Table of Contents
-1. [Daily]
+1. [Daily](## Daily)
 2. [Weekly]
 3. [Monthly]
 4. [Yearly]
+
+
+## Daily
