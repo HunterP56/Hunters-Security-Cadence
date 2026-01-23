@@ -21,7 +21,7 @@ You should check for app updates everyday (Apple devices can be finicky on when 
    1. Hold down the App store icon
    2. Choose Updates
    3. Refresh the page by swiping your screen down
-   4. Swipe up and choose update all
+   4. Swipe up and choose update all  
       or
    1. Open the App store
    2. Click your profile picture icon in the top right
