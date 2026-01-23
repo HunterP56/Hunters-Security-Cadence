@@ -5,3 +5,8 @@ Things you should be doing daily, weekly, monthly, yearly.
 * How often to check for updates.  
 * Where do you check?  
 * What devices should I be updating.  
+
+## Table of Contents
+1. Daily
+2. Weekly
+3. Monthly  
