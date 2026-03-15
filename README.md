@@ -32,9 +32,9 @@ To check for updates on an iPhone or iPad, you have two options:
 
 ## Weekly
 ### Computers (Laptops/Desktops/Servers)
-Computers should be updated atleast once a week, new security intelligence fixes can drop without schedule, and most OS have a once a month scheduled update that you should update right after it releases.  
+Computers should be updated atleast once a week, new security intelligence fixes can drop without schedule, and most OS developers (Microsoft, Apple & Linux) usually try to push out a once a month scheduled update that you should update right after it releases.
 
-Some will say wait before you update for others to thoroughly test the update and make sure nothing breaks, I agree, however most normal people don't have the time nor resources to only update a single machine or a few machines to see if they updates break anything.  
+Some will say wait before you update for others to thoroughly test the update and make sure nothing breaks, I agree, however most normal people don't have the time nor resources to only update a single machine or a few machines to see if they updates break anything.
 
 The longer you don't have that update, the longer you are exposed to cybercriminals.
 
